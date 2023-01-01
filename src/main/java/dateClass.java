@@ -58,3 +58,21 @@ public class dateClass {
         System.out.println("Time Zone "+sdf5.format(date));
     }
 }
+/*
+Sample solution:
+
+Print date in general format with time and timezoneSun Jan 01 16:32:49 IST 2023
+Print time in millisecond from 1st Jan 19701672570969393
+Print current date1
+Date date3 comes after date date1: true
+Date d3 comes before date d2: false
+Returning 0
+Returning -1
+Returning 1
+Formatting date 01/01/2023
+Formatting date with time 01/01/2023 16:32:49
+Era AD
+Year 2023
+Week year 2023
+Time Zone IST:+0530
+ */
