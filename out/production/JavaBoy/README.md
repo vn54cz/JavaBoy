@@ -1,2 +1,0 @@
-# JavaBoy
-Useful Java Class
