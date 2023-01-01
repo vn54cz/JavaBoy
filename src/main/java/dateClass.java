@@ -36,5 +36,7 @@ public class dateClass {
         System.out.println("Returning "+c);
         c = date3.compareTo(date1);
         System.out.println("Returning "+c);
+
+        // For more details visit https://docs.oracle.com/javase/7/docs/api/java/util/Date.html
     }
 }
