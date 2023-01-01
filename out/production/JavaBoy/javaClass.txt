@@ -1,0 +1,8 @@
+Java Util: Contains the collections framework, legacy collection classes, event model, date and time facilities,
+           internationalization, and miscellaneous utility classes (a string tokenizer, a random-number generator,
+           and a bit array).
+Java.lang: Provides classes that are fundamental to the design of the Java programming language. The most important
+           classes are Object, which is the root of the class hierarchy, and Class, instances of which represent
+           classes at run time.
+Java.text: Provides classes and interfaces for handling text, dates, numbers, and messages in a manner independent
+           of natural languages.
